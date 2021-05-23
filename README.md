@@ -1,6 +1,6 @@
 # Terraform_AWS_resources
 
-### This repo consist code of terraform by which we can create the AWS resources such as key_pair, security_group having port no. 80 and 22 as an ingress, ebs_volume, ec2_instance and also configuring the Webserver having static html code.
+### This repo consist code of terraform by which we can create the AWS resources such as key_pair, security_group, ebs_volume, ec2_instance and also configuring the Webserver having static html code.
 
 ## List of steps to perform:
 
